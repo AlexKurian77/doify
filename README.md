@@ -50,7 +50,7 @@ A modern, full-stack task management application with JWT authentication, built 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/doify.git
+git clone https://github.com/AlexKurian77/doify.git
 cd doify
 ```
 
