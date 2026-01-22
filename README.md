@@ -145,7 +145,12 @@ doify/
 
 ## Screenshots
 
-*Add your screenshots here*
+<img width="1919" height="1079" alt="Screenshot 2026-01-22 191125" src="https://github.com/user-attachments/assets/1928d23e-a048-4166-b424-269c69a4f9e6" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-22 191315" src="https://github.com/user-attachments/assets/c899af7e-ac89-4034-875b-39ca8db56727" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-22 191319" src="https://github.com/user-attachments/assets/43b2bd58-0642-40cf-9b9e-435fab771ee0" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-22 191330" src="https://github.com/user-attachments/assets/8c24c782-8e55-4342-8a50-6e92766fd565" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-22 191338" src="https://github.com/user-attachments/assets/e09a44a3-e10e-485e-9435-2895ab395c99" />
+
 
 ## Security Features
 
