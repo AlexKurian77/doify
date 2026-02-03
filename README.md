@@ -4,6 +4,7 @@ A modern, full-stack task management application with JWT authentication, built 
 
 ![Doify](https://img.shields.io/badge/Next.js-16-black) ![Express](https://img.shields.io/badge/Express-4.18-green) ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-blue)
 
+
 ## Features
 
 ### Authentication
