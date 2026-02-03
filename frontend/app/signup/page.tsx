@@ -92,6 +92,7 @@ export default function SignupPage() {
                     <h1 className="text-2xl font-bold text-center mb-2">Create an account</h1>
                     <p className="text-foreground-secondary text-center mb-8">
                         Start managing your tasks today
+                        
                     </p>
 
                     {/* Error Message */}
